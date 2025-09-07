@@ -20,6 +20,7 @@ This project delivers an interactive Tableau dashboard analyzing Airbnb listings
 - Key fields (typical): id, name, host_id, zipcode, bedrooms, price, date, availability, review_score
 - You provided an Excel dataset and the published dashboard
 
+- Dataset: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 Note: Dashboard visuals summarize data at aggregated levels (bedroom count, ZIP code, time).
 
 ---
@@ -152,3 +153,4 @@ Example cleaning steps (conceptual):
 
 ## 🔗 Live dashboard
 - Tableau Public: https://public.tableau.com/app/profile/kamran.ahmad1470/viz/AirBnBfullproject_17565502981860/Dashboard1
+
